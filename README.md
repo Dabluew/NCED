@@ -1,5 +1,5 @@
 /* 
-Public Kirka.io CSS #2 by NizzQ#9235
+Publica Kirka.io CSS #2 by NizzQ#9235
 Please do give credit if you decided to recolor :)
 
 -=Install Instructions for Browser=-
